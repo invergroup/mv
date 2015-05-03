@@ -26,7 +26,8 @@ $this->title = Yii::$app->name;
 
         <div class="row">
             <div class="col-lg-4">
-                <p>ПРИВЕТ!!!</p>
+                <p>ПРИВЕТ!!!
+                </p>
 
                 <p>Отлично, все я получил твои изменения.</p>
 
